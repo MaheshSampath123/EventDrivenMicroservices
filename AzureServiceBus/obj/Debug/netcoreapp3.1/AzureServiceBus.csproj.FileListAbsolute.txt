@@ -1,0 +1,19 @@
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\AzureServiceBus\bin\Debug\netcoreapp3.1\AzureServiceBus.deps.json
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\AzureServiceBus\bin\Debug\netcoreapp3.1\AzureServiceBus.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\AzureServiceBus\bin\Debug\netcoreapp3.1\AzureServiceBus.pdb
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\AzureServiceBus\obj\Debug\netcoreapp3.1\AzureServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\AzureServiceBus\obj\Debug\netcoreapp3.1\AzureServiceBus.AssemblyInfoInputs.cache
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\AzureServiceBus\obj\Debug\netcoreapp3.1\AzureServiceBus.AssemblyInfo.cs
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\AzureServiceBus\obj\Debug\netcoreapp3.1\AzureServiceBus.csproj.CoreCompileInputs.cache
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\AzureServiceBus\obj\Debug\netcoreapp3.1\AzureServiceBus.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\AzureServiceBus\obj\Debug\netcoreapp3.1\AzureServiceBus.pdb
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\bin\Debug\netcoreapp3.1\AzureServiceBus.deps.json
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\bin\Debug\netcoreapp3.1\AzureServiceBus.dll
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\bin\Debug\netcoreapp3.1\AzureServiceBus.pdb
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\obj\Debug\netcoreapp3.1\AzureServiceBus.csproj.AssemblyReference.cache
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\obj\Debug\netcoreapp3.1\AzureServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\obj\Debug\netcoreapp3.1\AzureServiceBus.AssemblyInfoInputs.cache
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\obj\Debug\netcoreapp3.1\AzureServiceBus.AssemblyInfo.cs
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\obj\Debug\netcoreapp3.1\AzureServiceBus.csproj.CoreCompileInputs.cache
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\obj\Debug\netcoreapp3.1\AzureServiceBus.dll
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\obj\Debug\netcoreapp3.1\AzureServiceBus.pdb

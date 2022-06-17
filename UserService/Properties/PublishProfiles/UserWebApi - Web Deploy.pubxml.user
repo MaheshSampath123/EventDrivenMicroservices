@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA6hG+4x8YckKVJ4hSML8RawAAAAACAAAAAAAQZgAAAAEAACAAAACAZqRS7RfD3shmsyH1jiuUVQhmyLAIx1kcm4nDBlgGtAAAAAAOgAAAAAIAACAAAAAZ1wm/vRW6PK25V6ogq69BzcnPGBTWgHPjHthxwvhjaoAAAACctCNOYgrKp8WWfFxwe4NOKWPn0SaEiTZq6MJqlmYRAZH7Nb6RK3p3pARswWQoH91Lx4uLfmX4s3g77YmAws2wpT7Wam3dyqLXmWKTdouW5b0ReJjbbWArcX/PDWJ1R/ztZT6bU4kbBeD4jWP5Y4cXJiLcWOKLcm0OT2dvHAnTBEAAAAAw8ba90kY/9pLVE716/4nylRyx+eBVbkkJEKdYXbTo1N/YPa0o887D03r+xWs/g0DcrZ/KOVUJ/t/WEN0vjpaz</EncryptedPassword>
+    <History>True|2022-06-06T06:10:26.3724085Z;True|2022-06-03T19:11:01.5951329+05:30;True|2022-06-02T18:18:05.1355918+05:30;True|2022-06-01T15:00:50.3330796+05:30;True|2022-05-30T13:12:20.8097983+05:30;True|2022-05-27T18:26:09.0821542+05:30;False|2022-05-27T18:22:03.7304962+05:30;True|2022-05-27T15:12:10.2541207+05:30;True|2022-05-27T14:59:19.1613460+05:30;True|2022-05-26T13:21:29.3337761+05:30;True|2022-05-25T18:26:13.3333988+05:30;True|2022-05-25T18:22:05.1190775+05:30;True|2022-05-25T18:15:58.2448464+05:30;True|2022-05-25T17:08:08.4333664+05:30;True|2022-05-25T17:04:55.8581934+05:30;True|2022-05-25T16:44:01.9163417+05:30;True|2022-05-25T15:55:37.3177109+05:30;True|2022-05-25T14:46:05.8671795+05:30;True|2022-05-25T02:50:54.3273934+05:30;True|2022-05-24T19:20:44.1926558+05:30;True|2022-05-24T19:15:43.1941442+05:30;False|2022-05-24T19:14:42.6662438+05:30;True|2022-05-24T19:11:35.4099925+05:30;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="UserDB">
+      <Value>Server=tcp:generacsqlserver.database.windows.net,1433%3bInitial Catalog=DealerDB%3bPersist Security Info=False%3bUser ID=sqlAdmin%3bPassword=generac%40D360%3bMultipleActiveResultSets=False%3bEncrypt=True%3bTrustServerCertificate=False%3bConnection Timeout=30%3b</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>

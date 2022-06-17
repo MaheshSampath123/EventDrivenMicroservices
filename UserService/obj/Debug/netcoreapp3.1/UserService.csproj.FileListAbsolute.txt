@@ -1,0 +1,171 @@
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\UserService.exe
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\UserService.deps.json
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\UserService.runtimeconfig.json
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\UserService.runtimeconfig.dev.json
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\UserService.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\UserService.pdb
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\RabbitMQ.Client.Core.DependencyInjection.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.AssemblyInfoInputs.cache
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.AssemblyInfo.cs
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.csproj.CoreCompileInputs.cache
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\staticwebassets\UserService.StaticWebAssets.Manifest.cache
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.RazorTargetAssemblyInfo.cache
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.csproj.CopyComplete
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.pdb
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.genruntimeconfig.cache
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.csproj.AssemblyReference.cache
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Azure.ServiceBus.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Azure.Services.AppAuthentication.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.Platform.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Clients.ActiveDirectory.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\AzureServiceBus.dll
+C:\Users\Sampath Goteti\source\repos\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\AzureServiceBus.pdb
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\appsettings.Development.json
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\appsettings.json
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\UserService.exe
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\UserService.deps.json
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\UserService.runtimeconfig.json
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\UserService.runtimeconfig.dev.json
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\UserService.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\UserService.pdb
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Azure.Core.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Azure.Core.Amqp.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Azure.Messaging.ServiceBus.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Azure.Amqp.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\RabbitMQ.Client.Core.DependencyInjection.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Memory.Data.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Text.Encodings.Web.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Example\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.csproj.AssemblyReference.cache
+E:\Example\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.GeneratedMSBuildEditorConfig.editorconfig
+E:\Example\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.AssemblyInfoInputs.cache
+E:\Example\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.AssemblyInfo.cs
+E:\Example\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.csproj.CoreCompileInputs.cache
+E:\Example\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.MvcApplicationPartsAssemblyInfo.cs
+E:\Example\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.MvcApplicationPartsAssemblyInfo.cache
+E:\Example\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\staticwebassets\UserService.StaticWebAssets.Manifest.cache
+E:\Example\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.RazorTargetAssemblyInfo.cache
+E:\Example\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.csproj.CopyComplete
+E:\Example\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.dll
+E:\Example\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.pdb
+E:\Example\Event-Driven Architecture Solution\UserService\obj\Debug\netcoreapp3.1\UserService.genruntimeconfig.cache
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Redis.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Pipelines.Sockets.Unofficial.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\StackExchange.Redis.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\StackExchange.Redis.DataTypes.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\StackExchange.Redis.StrongName.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\System.Diagnostics.PerformanceCounter.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Azure.Extensions.AspNetCore.Configuration.Secrets.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Azure.Identity.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Azure.Security.KeyVault.Secrets.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Example\Event-Driven Architecture Solution\UserService\bin\Debug\netcoreapp3.1\BCrypt.Net-Core.dll

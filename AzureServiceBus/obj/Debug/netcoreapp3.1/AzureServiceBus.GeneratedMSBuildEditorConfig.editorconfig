@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = AzureServiceBus
+build_property.ProjectDir = E:\Example\Event-Driven Architecture Solution\AzureServiceBus\

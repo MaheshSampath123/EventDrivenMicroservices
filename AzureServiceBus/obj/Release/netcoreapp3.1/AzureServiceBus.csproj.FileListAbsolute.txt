@@ -1,0 +1,10 @@
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\bin\Release\netcoreapp3.1\AzureServiceBus.deps.json
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\bin\Release\netcoreapp3.1\AzureServiceBus.dll
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\bin\Release\netcoreapp3.1\AzureServiceBus.pdb
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\obj\Release\netcoreapp3.1\AzureServiceBus.csproj.AssemblyReference.cache
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\obj\Release\netcoreapp3.1\AzureServiceBus.GeneratedMSBuildEditorConfig.editorconfig
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\obj\Release\netcoreapp3.1\AzureServiceBus.AssemblyInfoInputs.cache
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\obj\Release\netcoreapp3.1\AzureServiceBus.AssemblyInfo.cs
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\obj\Release\netcoreapp3.1\AzureServiceBus.csproj.CoreCompileInputs.cache
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\obj\Release\netcoreapp3.1\AzureServiceBus.dll
+E:\Example\Event-Driven Architecture Solution\AzureServiceBus\obj\Release\netcoreapp3.1\AzureServiceBus.pdb
